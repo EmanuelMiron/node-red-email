@@ -52,7 +52,7 @@
     "mta"
   ],
   "license": "Apache-2.0",
-  "name": "node-red-email",
+  "name": "@EmanuelMiron/node-red-email",
   "node-red": {
     "nodes": {
       "email": "email.js"
