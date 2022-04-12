@@ -1,0 +1,66 @@
+{
+  "_from": "file:/root/.node-red/nodes/node-red-email-1.0.0.tgz",
+  "_id": "node-red-email@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Q1EwhfPaicOAEOD0Xf1qkUlzTm1HRAbubShB84qaeGldD91eUmZOf/7wj4J87zi0GheNodMfVNuzBa6QTopp1g==",
+  "_location": "/node-red-email",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/root/.node-red",
+    "raw": "/root/.node-red/nodes/node-red-email-1.0.0.tgz",
+    "rawSpec": "/root/.node-red/nodes/node-red-email-1.0.0.tgz",
+    "saveSpec": "file:/root/.node-red/nodes/node-red-email-1.0.0.tgz",
+    "fetchSpec": "/root/.node-red/nodes/node-red-email-1.0.0.tgz"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "/root/.node-red/nodes/node-red-email-1.0.0.tgz",
+  "_shasum": "7dab12624f6e105dd0816324708e8fd3d5d27869",
+  "_spec": "/root/.node-red/nodes/node-red-email-1.0.0.tgz",
+  "_where": "/root/.node-red",
+  "author": {
+    "name": "Emanuel Miron"
+  },
+  "bundleDependencies": [
+    "imap",
+    "poplib",
+    "mailparser",
+    "nodemailer",
+    "smtp-server"
+  ],
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.2.0",
+    "nodemailer": "~6.6.3",
+    "poplib": "^0.1.7",
+    "smtp-server": "^3.9.0"
+  },
+  "deprecated": false,
+  "description": "Node-RED nodes to send and receive simple emails.",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [
+    "node-red",
+    "email",
+    "gmail",
+    "imap",
+    "pop",
+    "mta"
+  ],
+  "license": "Apache-2.0",
+  "name": "node-red-email",
+  "node-red": {
+    "nodes": {
+      "email": "email.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmanuelMiron/node-red-email.git"
+  },
+  "version": "1.0.0"
+}
