@@ -1,5 +1,5 @@
 {
-  "_from": "file:/root/.node-red/nodes/node-red-email-1.0.1.tgz",
+  "_from": "file:/root/.node-red/nodes/node-red-email-1.0.2.tgz",
   "_inBundle": false,
   "_integrity": "sha512-Q1EwhfPaicOAEOD0Xf1qkUlzTm1HRAbubShB84qaeGldD91eUmZOf/7wj4J87zi0GheNodMfVNuzBa6QTopp1g==",
   "_location": "/node-red-email",
@@ -7,18 +7,18 @@
   "_requested": {
     "type": "file",
     "where": "/root/.node-red",
-    "raw": "/root/.node-red/nodes/node-red-email-1.0.1.tgz",
-    "rawSpec": "/root/.node-red/nodes/node-red-email-1.0.1.tgz",
-    "saveSpec": "file:/root/.node-red/nodes/node-red-email-1.0.1.tgz",
-    "fetchSpec": "/root/.node-red/nodes/node-red-email-1.0.1.tgz"
+    "raw": "/root/.node-red/nodes/node-red-email-1.0.2.tgz",
+    "rawSpec": "/root/.node-red/nodes/node-red-email-1.0.2.tgz",
+    "saveSpec": "file:/root/.node-red/nodes/node-red-email-1.0.2.tgz",
+    "fetchSpec": "/root/.node-red/nodes/node-red-email-1.0.2.tgz"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "/root/.node-red/nodes/node-red-email-1.0.1.tgz",
+  "_resolved": "/root/.node-red/nodes/node-red-email-1.0.2.tgz",
   "_shasum": "7dab12624f6e105dd0816324708e8fd3d5d27869",
-  "_spec": "/root/.node-red/nodes/node-red-email-1.0.1.tgz",
+  "_spec": "/root/.node-red/nodes/node-red-email-1.0.2.tgz",
   "_where": "/root/.node-red",
   "author": "Emanuel Miron",
   "bundleDependencies": [
@@ -60,7 +60,7 @@
     "type": "git",
     "url": "git+https://github.com/EmanuelMiron/node-red-email.git"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bugs": {
     "url": "https://github.com/EmanuelMiron/node-red-email/issues"
   },
