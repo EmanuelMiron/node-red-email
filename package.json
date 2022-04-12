@@ -1,6 +1,5 @@
 {
   "_from": "file:/root/.node-red/nodes/node-red-email-1.0.0.tgz",
-  "_id": "node-red-email@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-Q1EwhfPaicOAEOD0Xf1qkUlzTm1HRAbubShB84qaeGldD91eUmZOf/7wj4J87zi0GheNodMfVNuzBa6QTopp1g==",
   "_location": "/node-red-email",
@@ -21,9 +20,7 @@
   "_shasum": "7dab12624f6e105dd0816324708e8fd3d5d27869",
   "_spec": "/root/.node-red/nodes/node-red-email-1.0.0.tgz",
   "_where": "/root/.node-red",
-  "author": {
-    "name": "Emanuel Miron"
-  },
+  "author": "Emanuel Miron",
   "bundleDependencies": [
     "imap",
     "poplib",
@@ -60,7 +57,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EmanuelMiron/node-red-email.git"
+    "url": "git+https://github.com/EmanuelMiron/node-red-email.git"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/EmanuelMiron/node-red-email/issues"
+  },
+  "homepage": "https://github.com/EmanuelMiron/node-red-email#readme",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
